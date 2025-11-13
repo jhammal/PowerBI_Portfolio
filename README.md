@@ -18,4 +18,4 @@ I am an HSE professional with a passion for sustainable development. I am acquir
 
 ## View My Work
 - PDF version of the report: `Dashboard.pdf` 
-- LinkedIn Profile: [Jamal Adikankwu](https://www.linkedin.com/in/jamal-adikankwu)
+- LinkedIn Profile: [Jamal Adikankwu](https://www.linkedin.com/in/adikankwujamalisioma/)
