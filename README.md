@@ -9,7 +9,6 @@ I am an HSE professional with a passion for sustainable development. I am acquir
 - **Dataset.xlsx** – Sample/anonymized dataset used for analysis
 - **Dashboard.pbix** – Power BI report file with interactive visuals
 - **Dashboard.pdf** – PDF export of the Power BI report for easy viewing
-- **Screenshots/** – Images of key dashboards and visualizations
 
 ## Key Skills Demonstrated
 - Data cleaning and transformation (Excel & Power BI)
